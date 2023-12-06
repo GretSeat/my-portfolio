@@ -208,6 +208,9 @@ body.is-preload *:after {
 html {
   font-size: 18pt;
 }
+.tech-used {
+  text-align: center;
+}
 
 @media screen and (max-width: 1920px) {
   html {
